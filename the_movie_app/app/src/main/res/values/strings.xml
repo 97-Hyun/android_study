@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">the_movie_app</string>
+    <!-- TMDB API KEY 값 필요 -->
+    <string name="api_key"></string>
+</resources>
